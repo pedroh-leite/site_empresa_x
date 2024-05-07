@@ -24,4 +24,9 @@ __Melhoria 1__, _Melhoria 2_
 2. Tela de home
 3. Tela de about
 
+#### Inserindo imagens
 ![home-icon]( home-icon.png)
+
+#### Inserindo links
+
+[Github_readme](https://github.com/pedroh-leite/site_empresa_x/blob/main/README.md)
