@@ -40,5 +40,5 @@ __Melhoria 1__, _Melhoria 2_
  ```
 
  #### Lista de tarefas
- -[x] Tarefa concluida
- -[] Tarefa não concluída
+ - [ x ] Tarefa concluida
+ - [ ] Tarefa não concluída
