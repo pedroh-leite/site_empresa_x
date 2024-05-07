@@ -30,3 +30,11 @@ __Melhoria 1__, _Melhoria 2_
 #### Inserindo links
 
 [Github_readme](https://github.com/pedroh-leite/site_empresa_x/blob/main/README.md)
+
+#### Inserindo código fonte
+
+``` javascript
+    function soma(a,b) {
+        return a+b
+    }
+ ```
