@@ -24,4 +24,4 @@ __Melhoria 1__, _Melhoria 2_
 2. Tela de home
 3. Tela de about
 
-
+![home-icon]( home-icon.png)
